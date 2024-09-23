@@ -3,7 +3,7 @@
 - 🌱 I’m currently pursuing a Bachelor's degree in Digital Media. I'm also learning about game development in Unity, Unreal, and hopefully soon<sup>tm</sup> in Godot.
 - 💞️ I’m looking to collaborate on games, but honestly anything that gets me thinking and learning about new things.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love sleep so much that I based my name off it.
+- ⚡ Fun fact: I love sleep so much I based my name off it.
 - 🎮 Some of my favorite games are:
   - [BeamNG.drive](https://store.steampowered.com/app/284160/BeamNGdrive/)
   - [Sekiro: Shadows Die Twice (all-time favorite)](https://store.steampowered.com/app/814380/Sekiro_Shadows_Die_Twice__GOTY_Edition/)
