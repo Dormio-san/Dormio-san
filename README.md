@@ -5,11 +5,11 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love sleep so much that I based my name off it.
 - 🎮 Some of my favorite games are:
-  - BeamNG.drive
-  - Sekiro: Shadows Die Twice (all-time favorite)
-  - Cities: Skylines
-  - Sunset Overdrive
-  - What Remains of Edith Finch
+  - [BeamNG.drive](https://store.steampowered.com/app/284160/BeamNGdrive/)
+  - [Sekiro: Shadows Die Twice (all-time favorite)](https://store.steampowered.com/app/814380/Sekiro_Shadows_Die_Twice__GOTY_Edition/)
+  - [Cities: Skylines](https://store.steampowered.com/app/255710/Cities_Skylines/)
+  - [Sunset Overdrive](https://store.steampowered.com/app/847370/Sunset_Overdrive/)
+  - [What Remains of Edith Finch](https://store.steampowered.com/app/501300/What_Remains_of_Edith_Finch/)
 - If you're interested in seeing some of what I have made, check out my [itch.io page](https://dormio-san.itch.io/).
 <!---
 Dormio-san/Dormio-san is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
