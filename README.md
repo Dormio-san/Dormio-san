@@ -12,6 +12,8 @@
   - [What Remains of Edith Finch](https://store.steampowered.com/app/501300/What_Remains_of_Edith_Finch/)
 - If you're interested in seeing some of what I have made, check out my [itch.io page](https://dormio-san.itch.io/).
 - Check out my portfolio [here](https://www.liamlovett.com).
+
+I started my coding journey back in my sophmore year of highschool. When I was scheduling for classes, I saw a coding class that I thought sounded interesting, so I decided to try it out. During my next couple of years in highschool, I learned how to use GameMaker and Unity. Once I finished highschool, I began attending the University of Central Florida (UCF) to study more about game design. I loved collaborating with other students at UCF to make projects that we were passionate about. My time at UCF added C# and Unreal Blueprints to my skillset. I am excited for the future as I continue to make more games and learn even more about coding!  
 <!---
 Dormio-san/Dormio-san is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
